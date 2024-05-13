@@ -11,7 +11,7 @@ $(document).ready(function () {
                 main: "img/hero-01.jpg",
                 cover: "img/hero-01.jpg"
             },
-            title: 'Multimax',
+            title: 'Mittu',
             desc: 'We help the companies to build products',
             button: {
                 text: 'Get started',
@@ -24,7 +24,7 @@ $(document).ready(function () {
                 main: "img/hero-02.jpg",
                 cover: "img/hero-02.jpg"
             },
-            title: 'Multimax',
+            title: 'Mittu',
             desc: 'We help the companies to build products',
             button: {
                 text: 'Get started',
@@ -37,7 +37,7 @@ $(document).ready(function () {
                 main: "img/hero-03.jpg",
                 cover: "img/hero-03.jpg"
             },
-            title: 'Multimax',
+            title: 'Mittu',
             desc: 'We help the companies to build products',
             button: {
                 text: 'Get started',
@@ -50,7 +50,7 @@ $(document).ready(function () {
                 main: "img/hero-04.jpg",
                 cover: "img/hero-04.jpg"
             },
-            title: 'Multimax',
+            title: 'Mittu',
             desc: 'We help the companies to build products',
             button: {
                 text: 'Get started',
